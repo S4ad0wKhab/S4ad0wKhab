@@ -14,4 +14,4 @@
 
 ## เกียติบัตร/ประกาศนียบัตร
 **Github for Developer โดย BorntoDev [ต้นฉบับ](https://school.borntodev.com/certificate/cYIqZkVXVr93)**
-<img src="Githubfordeveloper.png" height="300">
+<img src="Githubfordeveloper.png" height="500">
