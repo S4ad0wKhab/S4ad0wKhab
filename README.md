@@ -1,16 +1,16 @@
-## Hi there 👋
+# สวัสดี 👋
 
-<!--
-**S4ad0wKhab/S4ad0wKhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ผมชื่อ S4ad0wKhab
 
-Here are some ideas to get you started:
+## สิ่งที่กำลังเรียน
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## โปรเจกต์
+- [DiscordCustomStatusUpdater](https://github.com/S4ad0wKhab/DiscordCustomStatusUpdater) (เลิกพัฒนาแล้ว)
+- Discord Bot (เร็วๆนี้)
+- เร็วๆนี้
+
+## เกียติบัตร/ประกาศนียบัตร
+Github for Developer [ต้นฉบับ](https://school.borntodev.com/certificate/cYIqZkVXVr93)
+<img src="Githubfordeveloper.png" height="300">
