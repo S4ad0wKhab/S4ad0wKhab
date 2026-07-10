@@ -8,10 +8,10 @@
 - Github and git (เรียนจบแล้ว)
 
 ## โปรเจกต์
-- [DiscordCustomStatusUpdater](https://github.com/S4ad0wKhab/DiscordCustomStatusUpdater/ปิดรูป) (เลิกพัฒนาแล้ว)
+- [DiscordCustomStatusUpdater](https://github.com/S4ad0wKhab/DiscordCustomStatusUpdater) (เลิกพัฒนาแล้ว)
 - Discord Bot (เร็วๆนี้)
 - เร็วๆนี้
 
 ## เกียติบัตร/ประกาศนียบัตร
 **Github for Developer โดย BorntoDev [ต้นฉบับ](https://school.borntodev.com/certificate/cYIqZkVXVr93)**
-<img src="Githubfordeveloper.png" height="500">
+<img src="ปิดรูป-Githubfordeveloper.png" height="500">
